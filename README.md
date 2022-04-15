@@ -264,6 +264,7 @@ We also need to install an additional module 'axios' for HTTP POST requests used
 # vue create shopping-cart
 -> manually select features
 -> select Vuex and Router
+-> Choose Version 2.x
 (use default settings for all next interactive questions)
 
 # cd shopping-cart
