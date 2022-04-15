@@ -23,6 +23,7 @@ Open the newly created Service instance:
 - Add a new application
 - Give it a name e.g. "mystoreapp"
 - Use "regularwebapp" as application type
+- Add scope of "partner"
 
 When you click on the newly created app you should see a JSON structure with all info such as : clientId, tenantId and oAuthServerURL.
 Take a note as you will need these values later !
